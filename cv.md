@@ -23,13 +23,11 @@ kimsunghyun@kaist.ac.kr
 1.  **Sunghyun Kim**, Ji-Sang Park, K. J. Chang, **"Stability and Segregation of B and P Dopants in Si/SiO<sub>2</sub> Core–Shell Nanowires"**, [Nano lett. 12, 5068.](http://pubs.acs.org/doi/abs/10.1021/nl3013924)    
 
 ## Award
-1. Apr. 24. 2015: **Best Presentation Award**, 2012 Korean Physical Society spring meeting, Daejeon, Korea  
-2. Nov. 1. 2013: **Best Poster Award**, 2013 Korean Physical Society fall meeting, Changwon, Korea 
-3. Jun. 22. 2012: **Best Poster Award**, The 8th KIAS Electronic Structure Calculation Workshop, Seoul, Korea 
-4. Apr. 27. 2012: **Best Presentation Award**, 2012 Korean Physical Society spring meeting, Daejeon, Korea 
-
-## Teaching Experience
+2012. 4.24 Best Presentation Award, 2012 Korean Physical Society spring meeting, Daejeon, Korea
+2013.11. 1 Best Poster Award, 2013 Korean Physical Society fall meeting, Changwon, Korea
+2012. 6.22 Best Poster Award, The 8th KIAS Electronic Structure Calculation Workshop, Seoul, Korea
+2012. 4.27 Best Presentation Award, 2012 Korean Physical Society spring meeting, Daejeon, Korea
 
 ## News
-1. Oct. 2012. [KAIST 장기주 교수팀,실리콘 나노선의 불순물 특성 세계 첫 규명](http://news1.kr/articles/?861311)
+1. Oct. 2012. KAIST, [실리콘 나노선의 전기흐름 방해 원인 밝혀](http://app.yonhapnews.co.kr/YNA/Basic/article/new_search/YIBW_showSearchArticle_New.aspx?&contents_id=AKR20121022100500063)
 
