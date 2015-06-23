@@ -23,7 +23,8 @@ kimsunghyun@kaist.ac.kr
 1.  **Sunghyun Kim**, Ji-Sang Park, K. J. Chang, **"Stability and Segregation of B and P Dopants in Si/SiO<sub>2</sub> Core–Shell Nanowires"**, [Nano lett. 12, 5068.](http://pubs.acs.org/doi/abs/10.1021/nl3013924)    
 
 ## Award
-2012. 4.24 Best Presentation Award, 2012 Korean Physical Society spring meeting, Daejeon, Korea
+2015. 6.19 Best Poster Award, The 11th KIAS Electronic Structure Calculation Workshop, Seoul, Korea
+2015. 4.24 Best Presentation Award, 2012 Korean Physical Society spring meeting, Daejeon, Korea
 2013.11. 1 Best Poster Award, 2013 Korean Physical Society fall meeting, Changwon, Korea
 2012. 6.22 Best Poster Award, The 8th KIAS Electronic Structure Calculation Workshop, Seoul, Korea
 2012. 4.27 Best Presentation Award, 2012 Korean Physical Society spring meeting, Daejeon, Korea
