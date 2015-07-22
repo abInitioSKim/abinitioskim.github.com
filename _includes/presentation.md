@@ -1,5 +1,6 @@
 ## Presentation
 ### 2015
+1. **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, Young Jun Oh, and K. J. Chang, **"Implementation of a Conformational Space Annealing Algorithm in Computational Search for Functional Materials"**(Poster), The 11th KIAS Electronic Structure Calculation Workshop, Seoul, Korea, [June, 19, 2015] 
 1. **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, Young Jun Oh, and K. J. Chang, [**"Implementation of a Conformational Space Annealing Algorithm in Computational Search for Functional Materials"**](http://www.kps.or.kr/data/2015springht/D8-%EC%9D%91%EC%A7%91.htm) (Oral), 2015 Korean Physical Society spring meeting, Daejeon, Korea [Apr, 24, 2015]
 1. **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, Young Jun Oh, and K. J. Chang, [**"Conformational space annealing scheme in the inverse design of functional materials"**](http://meetings.aps.org/Meeting/MAR15/Session/A16.3) (Oral), 2015 APS March meeting, San Antonio, TX, USA [Mar, 2, 2015]
 
