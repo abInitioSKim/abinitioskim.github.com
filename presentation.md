@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Prsentation
+title: Presentation
 ---
 ### 2015
+1. **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, [**"Finite-size supercell correction scheme for the formation energy of charged defects in silicon nanowires"**](http://icds-2015.org/wp-content/uploads/sites/7/2015/07/Detailed-program-ICDS-2015.pdf)(Poster), 28th International Conference on Defects in Semiconductors, Espoo, Finland, [July, 27–31, 2015]
+1. **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, Young Jun Oh, and K. J. Chang, **"Implementation of a Conformational Space Annealing Algorithm in Computational Search for Functional Materials"**(Poster), The 11th KIAS Electronic Structure Calculation Workshop, Seoul, Korea, [June, 19, 2015] 
 1. **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, Young Jun Oh, and K. J. Chang, [**"Implementation of a Conformational Space Annealing Algorithm in Computational Search for Functional Materials"**](http://www.kps.or.kr/data/2015springht/D8-%EC%9D%91%EC%A7%91.htm) (Oral), 2015 Korean Physical Society spring meeting, Daejeon, Korea [Apr, 24, 2015]
 1. **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, Young Jun Oh, and K. J. Chang, [**"Conformational space annealing scheme in the inverse design of functional materials"**](http://meetings.aps.org/Meeting/MAR15/Session/A16.3) (Oral), 2015 APS March meeting, San Antonio, TX, USA [Mar, 2, 2015]
 
 ### 2014
-1. **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"Finite-zsize supercell correction scheme for the formation energy of charged defects in silicon nanowires"**(Poster), The 17th Asian Workshop on First-Principles Electronic Structure Calculations, Seoul, Korea [Nov, 3-5, 2014]
+1. **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"Finite-size supercell correction scheme for the formation energy of charged defects in silicon nanowires"**(Poster), The 17th Asian Workshop on First-Principles Electronic Structure Calculations, Seoul, Korea [Nov, 3-5, 2014]
 1. **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, [**"Determination of Accurate Transition Levels of Charged Defects in Silicon Nanowires"**](http://icps2014.sched.org/list/descriptions/#.VBKUn2NaXy0) (Poster), 2014 ICPS, Austin, TX, USA [Aug, 10-15, 2014]  
 1. **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"First-principles supercell calculations for accurate defect
 transition levels in silicon nanowires"** (Oral), 2014 Korean Physical Society spring meeting, Daejeon, Korea[April, 23-24, 2014]  
