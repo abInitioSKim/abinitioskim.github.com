@@ -3,6 +3,7 @@ layout: page
 title: English-Korean Glossary of physics
 ---
 see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
+
 |   영어  |   우리말 |
 |   --- |   --- |
 |   a posteriori probability    |   후시(적) 확률, 사후 확률     |
