@@ -13,12 +13,15 @@ links:
     url:          /presentation
   - name:         GitHub
     url:          http://github.com/abinitioskim
+    external:     true
   - name:         Phys_ko
     url:          /phys_ko
-    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+markdown: 		  kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
