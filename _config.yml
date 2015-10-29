@@ -13,6 +13,8 @@ links:
     url:          /presentation
   - name:         GitHub
     url:          http://github.com/abinitioskim
+  - name:         Phys_ko
+    url:          /phys_ko
     external:     true
 highlighter:      pygments
 permalink:        pretty
