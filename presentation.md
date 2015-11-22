@@ -3,6 +3,7 @@ layout: page
 title: Presentation
 ---
 ### 2015
+1. **Sunghyun Kim**,Young Jun Oh, In-Ho Lee, Jooyoung Lee, and K. J. Chang, [**"Computational Design of Silicon Allotropes with Direct Band Gaps"**](http://www.icae.kr/icae2015/02web01_oral.php), The 3rd International Conference on Advanced Electromaterials, ICC Jeju, Korea [Nov, 17-20, 2015]
 1. **Sunghyun Kim**,Young Jun Oh, In-Ho Lee, Jooyoung Lee, and K. J. Chang, [**"Computational design of direct band gap Si superlattices"**](https://www.issp.u-tokyo.ac.jp/public/asian18/ASIAN18-Posters.pdf)(Poster), The 18th Asian Workshop on First-Principles Electronic Structure Calculations, Kashiwa, Japan [Nov, 9-11, 2014]
 1. **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, [**"Finite-size supercell correction scheme for the formation energy of charged defects in silicon nanowires"**](http://icds-2015.org/wp-content/uploads/sites/7/2015/07/Detailed-program-ICDS-2015.pdf)(Poster), 28th International Conference on Defects in Semiconductors, Espoo, Finland, [July, 27–31, 2015]
 1. **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, Young Jun Oh, and K. J. Chang, **"Implementation of a Conformational Space Annealing Algorithm in Computational Search for Functional Materials"**(Poster), The 11th KIAS Electronic Structure Calculation Workshop, Seoul, Korea, [June, 19, 2015] 
