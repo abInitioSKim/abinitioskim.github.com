@@ -18,6 +18,8 @@ kimsunghyun@kaist.ac.kr
 2006: Undergraduate internship student (Advisor: [Dr. Pietro Cicuta](http://people.bss.phy.cam.ac.uk/~pc245/))
 
 ## Publication
+
+1.  Young Jun Oh, **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, and K. J. Chang, **"Direct band gap carbon superlattices with efficient optical transition"**, [Phys. Rev. B 93, 085201](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.085201)
 4.  Young Jun Oh, In-Ho Lee, **Sunghyun Kim**, Jooyoung Lee, and K. J. Chang, **"Dipole-allowed direct band gap silicon superlattices"**, [Sci. Rep. 8, 18086.](http://dx.doi.org/10.1038/srep18086)   
 3.  In-Ho Lee, Jooyoung Lee, Young Jun Oh, **Sunghyun Kim**, and K. J. Chang, **"Computational search for direct band gap silicon crystals"**, [Phys. Rev. B 90, 115209.](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.115209)   
 2.  **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"Finite-size supercell correction scheme for charged defects in one-dimensional systems"**, [Phys. Rev. B 90, 085435.](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085435)   
