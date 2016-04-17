@@ -19,11 +19,12 @@ kimsunghyun@kaist.ac.kr
 
 ## Publication
 
-1.  Young Jun Oh, **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, and K. J. Chang, **"Direct band gap carbon superlattices with efficient optical transition"**, [Phys. Rev. B 93, 085201](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.085201)
-4.  Young Jun Oh, In-Ho Lee, **Sunghyun Kim**, Jooyoung Lee, and K. J. Chang, **"Dipole-allowed direct band gap silicon superlattices"**, [Sci. Rep. 8, 18086.](http://dx.doi.org/10.1038/srep18086)   
-3.  In-Ho Lee, Jooyoung Lee, Young Jun Oh, **Sunghyun Kim**, and K. J. Chang, **"Computational search for direct band gap silicon crystals"**, [Phys. Rev. B 90, 115209.](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.115209)   
-2.  **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"Finite-size supercell correction scheme for charged defects in one-dimensional systems"**, [Phys. Rev. B 90, 085435.](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085435)   
-1.  **Sunghyun Kim**, Ji-Sang Park, K. J. Chang, **"Stability and Segregation of B and P Dopants in Si/SiO<sub>2</sub> Core–Shell Nanowires"**, [Nano lett. 12, 5068.](http://pubs.acs.org/doi/abs/10.1021/nl3013924)    
+1.  In-Ho Lee, Young Jun Oh, **Sunghyun Kim**, Jooyoung Lee, and K. J. Chang, **"Ab initio materials design using conformational space annealing and its application to searching for direct band gap silicon crystals"**, [Comp. Phys. Comm. 203, 110 (2016).](http://dx.doi.org/10.1016/j.cpc.2016.02.011)
+1.  Young Jun Oh, **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, and K. J. Chang, **"Direct band gap carbon superlattices with efficient optical transition"**, [Phys. Rev. B 93, 085201 (2016).](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.085201)
+4.  Young Jun Oh, In-Ho Lee, **Sunghyun Kim**, Jooyoung Lee, and K. J. Chang, **"Dipole-allowed direct band gap silicon superlattices"**, [Sci. Rep. 8, 18086 (2015).](http://dx.doi.org/10.1038/srep18086)   
+3.  In-Ho Lee, Jooyoung Lee, Young Jun Oh, **Sunghyun Kim**, and K. J. Chang, **"Computational search for direct band gap silicon crystals"**, [Phys. Rev. B 90, 115209 (2014).](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.115209)   
+2.  **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"Finite-size supercell correction scheme for charged defects in one-dimensional systems"**, [Phys. Rev. B 90, 085435 (2014).](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085435) 
+1.  **Sunghyun Kim**, Ji-Sang Park, K. J. Chang, **"Stability and Segregation of B and P Dopants in Si/SiO<sub>2</sub> Core–Shell Nanowires"**, [Nano lett. 12, 5068 (2012).](http://pubs.acs.org/doi/abs/10.1021/nl3013924)    
 
 ## Award
 
