@@ -3,6 +3,7 @@ layout: page
 title: Presentation
 ---
 ### 2016
+1. **Sunghyun Kim**, Young Jun Oh, In-Ho Lee, Jooyoung Lee, and K. J. Chang, [**"Direct band gap carbon allotropes with efficient optical transition via first-principles materials designi"**](http://home.kias.re.kr/MKG/h/ESCW2016/)(Poster), The 12th KIAS Electronic Structure Calculation Workshop, Seoul, Korea, [June, 16, 2015] 
 1. **Sunghyun Kim**, Young Jun Oh, In-Ho Lee, Jooyoung Lee, and K. J. Chang, [**"Prediction of direct band gap silicon superlattices with dipole-allowed optical transition"**](http://meetings.aps.org/Meeting/MAR16/Session/P23.10)(Oral), 2016 APS March meeting, Baltimore, MD, USA [Mar, 16, 2016]
 
 ### 2015
