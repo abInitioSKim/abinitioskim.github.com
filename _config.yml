@@ -16,7 +16,7 @@ links:
     external:     true
   - name:         Phys_ko
     url:          /phys_ko
-highlighter:      pygments
+highlighter:      rouge   
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
